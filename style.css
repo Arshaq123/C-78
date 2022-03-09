@@ -1,0 +1,11 @@
+body{
+    background-color: rgb(9, 248, 228);
+}
+#btn1{
+    background-color: rgb(56, 243, 9);
+    height: 20px;
+    width: 50px;
+}
+#h1{
+    color: crimson;
+}
